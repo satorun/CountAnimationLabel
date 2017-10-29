@@ -1,0 +1,3 @@
+# CountAnimationLabel
+
+![movie](countupMov.gif)
