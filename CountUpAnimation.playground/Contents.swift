@@ -85,12 +85,10 @@ class MyViewController : UIViewController {
         view.addSubview(button)
         
         self.view = view
-        
-
     }
     
     @objc func animation() {
-        label.animate(from: 150, to: 1030, duration: 1.1)
+        label.animate(from: 150, to: 1030, duration: 3)
     }
 }
 // Present the view controller in the Live View window
